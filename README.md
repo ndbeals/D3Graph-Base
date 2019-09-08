@@ -23,7 +23,7 @@ An object-oriented, general purpose graph made in D3. Designed to be easily exte
 
 For example usage, refer to `basic.html` within the `examples` directory.
 
-
+![Example Image](https://i.imgur.com/drBccg4.png)
 
 
 
